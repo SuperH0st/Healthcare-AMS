@@ -307,13 +307,6 @@ Currently configured for German locale (de-DE) with:
 - European date formats (DD.MM.YYYY)
 - 24-hour time format
 
-## 👤 Author
-
-**Abdul Mateen**
-
-- GitHub: [@mateen470](https://github.com/mateen470)
-- LinkedIn: [Abdul Mateen](https://www.linkedin.com/in/abdul-mateen48/)
-
 ## 🙏 Acknowledgments
 
 - [Next.js](https://nextjs.org/) for the incredible React framework
